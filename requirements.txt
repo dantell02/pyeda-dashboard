@@ -1,0 +1,18 @@
+# Data analysis & ML
+pandas==2.2.2
+numpy
+scikit-learn
+plotly==5.23.0
+statsmodels
+
+# Web app
+streamlit
+streamlit-plotly-events
+
+# Jupyter environment
+jupyterlab
+ipywidgets
+
+# Utilities
+kneed
+pycountry
